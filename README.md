@@ -20,5 +20,5 @@ This package has been implemented by **Fatoumata Dama**, PhD student (2019-2022)
 ## Run toy example
 
 ```{python}
- python3 -O python3 -O run_toy_example.py
+ python3 -O run_toy_example.py
 ```
