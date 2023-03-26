@@ -20,7 +20,7 @@ nb_regimes = 3
 innovation = "gaussian"
 
 
-data_file = "toy_dataset.pkl"
+data_file = "toy-dataset.pkl"
 
 #----training data loading
 infile = open(data_file, 'rb')
