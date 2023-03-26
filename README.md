@@ -17,7 +17,7 @@ This package has been implemented by **Fatoumata Dama**, PhD student (2019-2022)
  * Concurrent.futures
  * Sklearn
 
-## Run toy example
+## Launch the toy example
 
 ```{python}
  python3 -O run_toy_example.py
