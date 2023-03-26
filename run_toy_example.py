@@ -64,7 +64,7 @@ start_time = time.time()
                                                innovation, \
                                                var_init_method='rand1', \
                                                hmc_init_method='rand', \
-                                               nb_iters=100, epsilon=1e-6, \
+                                               nb_iters=50, epsilon=1e-6, \
                                                nb_init=5, nb_iters_per_init=5)
 
 #running time estimation ends
