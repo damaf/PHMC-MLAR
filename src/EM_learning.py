@@ -147,7 +147,7 @@ def random_init_EM(X_dim, X_order, nb_regimes, data, initial_values, states, \
                                             hmc_init_method, nb_iters_per_init) )
              
         for f in concurrent.futures.as_completed(futures):
-            print("Child process_X, I am done !")
+            #print("Child process_X, I am done !")
             try:
                 output_params.append(f.result())
             except Exception as exc:
