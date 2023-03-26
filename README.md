@@ -15,7 +15,7 @@ This package has been implemented by **Fatoumata Dama**, PhD student (2019-2022)
  * Numpy
  * Scipy
  * Pickle
- * Concurrent.futures
+ * Futures
  * Sklearn
 
 ## Launch the toy example
