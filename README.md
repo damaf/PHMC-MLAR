@@ -1,6 +1,7 @@
 # PHMC-MLAR
 
-This package contains the software programs designed for the PHMC-MLAR (Partially Hidden Markov Chain Multivariate Linear AutoRegressive) model. 
+## Partially Hidden Markov Chain Multivariate Linear AutoRegressive (PHMC-MLAR)
+This package contains the software programs designed for the PHMC-MLAR model. 
 It includes a learning algorithm, a prediction function and a state inference algorithm.
 
 If you use this model in your work, please refer to it as follows:
