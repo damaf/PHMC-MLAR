@@ -15,7 +15,7 @@ This package has been implemented by **Fatoumata Dama**, PhD student (2019-2022)
  * Python 3.6
  * Numpy
  * Scipy
- * Pickle
+ * Pickle5
  * Futures
  * Scikit-learn
 
