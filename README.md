@@ -17,7 +17,7 @@ This package has been implemented by **Fatoumata Dama**, PhD student (2019-2022)
  * Scipy
  * Pickle
  * Futures
- * Sklearn
+ * Scikit-learn
 
 ## Launch the toy example
 
