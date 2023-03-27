@@ -35,10 +35,10 @@ initial_values = data_set[2]
 print("--------Toy dataset visualization")
 print("Nb time series = ", len(data))
 print("Displays frist timeseries : ")
-print("Initial_values = ", initial_values[0][0])
-print("The remaining observations = ", data[0][0])
+print("Initial_values = ", initial_values[0][:])
+print("The remaining observations = ", data[0][:])
+print()
 print("-----------------------------------")
-
 
 #----Unsupervised learning scheme: all states are possible at each time-steps
 # list of length S
