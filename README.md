@@ -12,6 +12,7 @@ and forecasting - application to machine health prognostics. Machine Learning, 1
 This package has been implemented by **Fatoumata Dama**, PhD student (2019-2022), Nantes University, France.
 
 ## Requirements
+ * Python3
  * Numpy
  * Scipy
  * Pickle
