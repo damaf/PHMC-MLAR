@@ -11,6 +11,8 @@ and forecasting - application to machine health prognostics. Machine Learning, 1
 
 This package has been implemented by **Fatoumata Dama**, PhD student (2019-2022), Nantes University, France.
 
+Fatoumata Dama was supported by a PhD scholarship granted by the French Ministery for Higher Education, Research and Innovation. She worked under the supervision of Christine Sinoquet, Associate Professor, PhD supervisor, LS2N / UMR CNRS 6004 (Digital Science Institute of Nantes), Nantes University, France.
+
 ## Requirements
  * Python 3.6
  * Numpy
